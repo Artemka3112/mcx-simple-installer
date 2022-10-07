@@ -1,0 +1,2 @@
+dearpygui==1.7.1
+pyinstaller==5.4.1

@@ -1,0 +1,1 @@
+pyinstaller -w -F -i ".\favicon.ico" --add-data ".\favicon.ico;files" -n "Installer" main.py
